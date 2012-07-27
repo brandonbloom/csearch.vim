@@ -1,0 +1,10 @@
+NOTE: Ensure that the code search binaries are on your path.
+Get them from http://code.google.com/p/codesearch/
+
+This script is a port of its ack.vim equivilant.
+See that at http://www.vim.org/scripts/script.php?script_id=2572
+
+
+Usage
+
+	:CSearch foo
